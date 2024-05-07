@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'stevenrim',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -69,8 +69,8 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', 
     skype: '',
     telegram: '',
@@ -116,7 +116,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Google Cybersecurity Certificate',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
