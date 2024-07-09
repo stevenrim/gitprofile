@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Steven Rim',
+    title: '',
     description: '',
     imageURL: '',
   },
@@ -84,19 +84,7 @@ const CONFIG = {
   },
   skills: [
     'Log Analytics',
-    'KQL',
-    'Sentinel',
-    'Incident Response',
-    'VirtualBox',
-    'Active Directory',
-    'PowerShell',
-    'Nessus',
-    'Vulnerability Scans',
-    'Remediation',
-    'WiFi Cracking',
-    'Kali Linux',
-    'Windows',
-    'Burp Suite',
+    
   ],
   experiences: [
     {
