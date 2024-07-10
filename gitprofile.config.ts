@@ -41,11 +41,11 @@ const CONFIG = {
           link: 'https://github.com/stevenrim/honeynet',
         },
         {
-          title: 'Project Name',
+          title: 'Active Directory Lab w/VirtualBox',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://betanews.com/wp-content/uploads/2018/11/virtualbox-logo.jpg',
           link: 'https://example.com',
         },
         {
