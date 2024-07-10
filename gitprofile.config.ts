@@ -133,28 +133,25 @@ const CONFIG = {
       year: '2023',
       link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
     },
-     {
-      name: 'Cybersecurity Masterclass: SOC Analyst',
-      body: 'test',
-      year: '2023',
-      link: 'https://app.kajabi.com/certificates/72ada0d2',
-    },
   ],
   educations: [
     {
       institution: 'Kennesaw State University',
       degree: 'MS-Cybersecurity',
-      year: '2025',
+      from:'2023',
+      to: '2025',
     },
     {
       institution: 'University of Illinois Urbana Champaign',
       degree: 'MBA-Strategic Leadership',
-      year: '2023',
+      from:'2020',
+      to: '2023',
     },
     {
       institution: 'University of Cincinnati',
       degree: 'BBA-Entrepreneurship',
-      year: '2010',
+      from:'2004',
+      to: '2010',
     },
   ],
   publications: [
