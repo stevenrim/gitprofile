@@ -130,13 +130,13 @@ const CONFIG = {
     {
       name: 'Google Cybersecurity Certificate',
       body: 'test',
-      year: 'March 2023',
+      year: '2023',
       link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
     },
      {
       name: 'Cybersecurity Masterclass: SOC Analyst',
       body: 'test',
-      year: 'April 2023',
+      year: '2023',
       link: 'https://app.kajabi.com/certificates/72ada0d2',
     },
   ],
@@ -144,20 +144,17 @@ const CONFIG = {
     {
       institution: 'Kennesaw State University',
       degree: 'MS-Cybersecurity',
-      from: '2023',
-      to: '2025',
+      year: '2025',
     },
     {
       institution: 'University of Illinois Urbana Champaign',
       degree: 'MBA-Strategic Leadership',
-      from: '2020',
-      to: '2023',
+      year: '2023',
     },
     {
       institution: 'University of Cincinnati',
       degree: 'BBA-Entrepreneurship',
-      from: '2004',
-      to: '2010',
+      year: '2010',
     },
   ],
   publications: [
