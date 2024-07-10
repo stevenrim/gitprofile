@@ -136,10 +136,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      [<img align="left" alt="" width="80px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/cf/35/d9cf3530-d272-b00f-9481-791600fabed3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" />]
     },
     {
       institution: 'Institution Name',
