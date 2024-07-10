@@ -126,7 +126,7 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certification: [
+  certifications: [
     {
       name: 'Google Cybersecurity Certificate',
       body: 'test',
