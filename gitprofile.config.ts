@@ -136,21 +136,22 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Kennesaw State University',
+      institution: 'Kennesaw State University: CCSE',
       degree: 'MS-Cybersecurity',
-      graduation: 'Expected in 2025',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Illinois Urbana Champaign: Gies',
+      degree: 'MBA-Strategic Leadership',
+      from: '2020',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Cincinnati: Lindner',
+      degree: 'BBA-Entrepreneurship',
+      from: '2004',
+      to: '2010',
     },
   ],
   publications: [
