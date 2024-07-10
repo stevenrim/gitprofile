@@ -107,7 +107,7 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Log Analytics',
+    '',
     
   ],
   experiences: [
@@ -126,12 +126,18 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certifications: [
+  certificates: [
     {
       name: 'Google Cybersecurity Certificate',
       body: 'test',
       year: 'March 2023',
       link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
+    },
+     {
+      name: 'Cybersecurity Masterclass: SOC Analyst',
+      body: 'test',
+      year: 'April 2023',
+      link: 'https://app.kajabi.com/certificates/72ada0d2',
     },
   ],
   educations: [
