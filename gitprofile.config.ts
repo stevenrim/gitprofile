@@ -145,6 +145,12 @@ const CONFIG = {
       year: 'Expected 2024',
       link: '',
     },
+     {
+      name: 'HTB Certified Defensive Security Analyst',
+      body: '',
+      year: 'Expected 2024',
+      link: '',
+    },
   ],
   educations: [
     {
