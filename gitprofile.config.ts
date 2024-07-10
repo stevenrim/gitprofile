@@ -129,26 +129,26 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Cybersecurity Certificate',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      body: 'test',
+      year: 'March 2023',
+      link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
     },
   ],
   educations: [
     {
-      institution: 'Kennesaw State University: CCSE',
+      institution: 'Kennesaw State University',
       degree: 'MS-Cybersecurity',
       from: '2023',
       to: '2025',
     },
     {
-      institution: 'University of Illinois Urbana Champaign: Gies',
+      institution: 'University of Illinois Urbana Champaign',
       degree: 'MBA-Strategic Leadership',
       from: '2020',
       to: '2023',
     },
     {
-      institution: 'University of Cincinnati: Lindner',
+      institution: 'University of Cincinnati',
       degree: 'BBA-Entrepreneurship',
       from: '2004',
       to: '2010',
