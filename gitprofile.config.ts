@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.imgur.com/ZWxe03e.jpg',
+          link: 'https://github.com/stevenrim/honeynet',
         },
         {
           title: 'Project Name',
