@@ -129,19 +129,19 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Cybersecurity Certificate',
-      body: 'Completed',
+      body: '',
       year: 'March 2023',
       link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
     },
     {
       name: 'Cybersecurity Masterclass: SOC Analyst',
-      body: 'Completed',
-      year: 'April 2022',
+      body: '',
+      year: 'April 2024',
       link: 'https://app.kajabi.com/certificates/72ada0d2',
     },
      {
       name: 'CompTIA Security +',
-      body: 'Expected 2024',
+      body: '',
       year: 'October 2024',
       link: '',
     },
