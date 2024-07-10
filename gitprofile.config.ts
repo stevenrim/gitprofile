@@ -126,12 +126,18 @@ const CONFIG = {
       companyLink: '',
     },
   ],
-  certificates: [
+  certification: [
     {
       name: 'Google Cybersecurity Certificate',
       body: 'test',
       year: '2023',
       link: 'https://www.credly.com/badges/c5dc51ac-beae-45ef-b27b-a060075191e3/',
+    },
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
     },
   ],
   educations: [
