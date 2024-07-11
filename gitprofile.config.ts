@@ -170,8 +170,8 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: '9purp0s3', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -194,7 +194,7 @@ const CONFIG = {
     respectPrefersColorScheme: false,
 
     // Display the ring in Profile picture
-    displayAvatarRing: true,
+    displayAvatarRing: false,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
