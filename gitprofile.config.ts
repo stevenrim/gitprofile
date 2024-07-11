@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Greetings, cyber adventurers!',
           description:
-            'I’m an intrepid explorer transitioning from the realm of full-cycle recruiting into the fascinating world of information security. Why the switch, you ask? Because I’m driven by an insatiable curiosity and a desire to protect systems from the dark forces lurking in the digital shadows. This is where I’ll be chronicling my thrilling journey in understanding threats, vulnerabilities, and exploits. In my portfolio, you’ll find showcases of my hands-on projects, sparked by my ongoing studies in cybersecurity, various courses, certificate programs, and the treasure trove of tutorials I find on YouTube made by amazing people. Whether it’s unraveling the mysteries of networking, defending systems, exploiting vulnerabilities, or playing with new tech…I’m eager to learn the ethical way. But this isn’t just about me. It’s about inspiring you, the reader. Maybe you’re an enthusiast, a budding cyberwarrior, or even a future employer. Whoever you are, know this: every click, every byte, every firewall breach tells a story. And mine is just beginning. Every journey is unique, and I hope mine adds a spark of inspiration and a dash of insight to your own adventure.',
+            'test test',
           imageUrl:
             'https://i.imgur.com/lPEMIjq.jpeg',
           link: 'https://example.com',
