@@ -44,7 +44,6 @@ const CONFIG = {
           title: 'Defensive Projects',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-            'test test',
           imageUrl:
             'https://i.imgur.com/zYKB9E5.jpeg',
           link: 'https://example.com',
