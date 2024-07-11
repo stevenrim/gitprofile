@@ -33,22 +33,6 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'SOC + Honeynet w/Azure',
-          description:
-            'Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.',
-          imageUrl:
-            'https://logowik.com/content/uploads/images/azure-sentinel7068.jpg',
-          link: 'https://github.com/stevenrim/honeynet',
-        },
-        {
-          title: 'Active Directory Lab w/VirtualBox',
-          description:
-            'Created and configured two virtual machines on Oracle VirtualBox; Windows Server 2019 and Windows 10. Ran Active Directory on Server 2019. Added 1000 users in Active Directory with PowerShell script. Successfully used client to access the internet through the private network.',
-          imageUrl:
-            'https://betanews.com/wp-content/uploads/2018/11/virtualbox-logo.jpg',
-          link: 'https://example.com',
-        },
-        {
           title: 'Offensive Projects',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
