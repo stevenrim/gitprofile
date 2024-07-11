@@ -49,19 +49,19 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Defensive Projects',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://i.imgur.com/zYKB9E5.jpeg',
-          link: 'https://example.com',
-        },
-        {
           title: 'Offensive Projects',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://i.imgur.com/lPEMIjq.jpeg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Defensive Projects',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://i.imgur.com/zYKB9E5.jpeg',
           link: 'https://example.com',
         },
         {
