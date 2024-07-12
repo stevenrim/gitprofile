@@ -29,21 +29,13 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'About Me',
+      header: 'Greetings, cyber adventurers!',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
           title: '',
           description:
             "Thank you for taking the time to visit my portfolio as I chronicle my journey to becoming an InfoSec professional. Here, you'll find my ethical hands-on projects from school, online courses, and YouTube tutorials made by amazing people in this industry. This journey isn't just about me—it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventure. -Steven aka 9purp0s3",
-          imageUrl:
-            '',
-          link: '',
-        },
-        {
-          title: '',
-          description:
-            '',
           imageUrl:
             '',
           link: '',
