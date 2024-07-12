@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Greetings, cyber adventurers!',
           description:
-            'test test',
+            "I'm transitioning from full-cycle recruiting into information security, driven by curiosity and a desire to protect systems from digital threats. Here, you'll find my ethical hands-on projects from school, different online courses, and YouTube tutorials made by amazing people. This journey isn't just about me—it's about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every click, byte, and breach tells a story. Mine is just beginning, and I hope it adds inspiration to your own adventure.",
           imageUrl:
             'https://i.imgur.com/lPEMIjq.jpeg',
           link: 'https://example.com',
