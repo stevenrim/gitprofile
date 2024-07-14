@@ -50,8 +50,8 @@ const CONFIG = {
           title: 'Cloud Honeynet + SOC in Azure',
           description:
             "Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.",
-          imageUrl: '',
-          link: '',
+          imageUrl: 'https://swimburger.net/media/0zcpmk1b/azure.jpg',
+          link: 'https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147',
         },
         {
           title: 'Vulnerability Assessment w/Nessus',
