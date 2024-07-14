@@ -46,6 +46,20 @@ const CONFIG = {
           imageUrl: '',
           link: '',
         },
+        {
+          title: 'Cloud Honeynet + SOC in Azure',
+          description:
+            "Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.",
+          imageUrl: '',
+          link: '',
+        },
+        {
+          title: 'Vulnerability Assessment w/Nessus',
+          description:
+            "Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.",
+          imageUrl: '',
+          link: '',
+        },
       ],
     },
   },
