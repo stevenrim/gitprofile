@@ -40,9 +40,9 @@ const CONFIG = {
           link: '',
         },
         {
-          title: 'Greetings, cyber adventurers!',
+          title: 'Active Directory Home Lab w/VirtualBox',
           description:
-            "Thank you for taking the time to visit my portfolio as I chronicle my journey into InfoSec. Here, you'll find my ethical hands-on projects from school, online courses, and YouTube tutorials made by amazing people in this industry. This journey isn't just about me—it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventure. -Steven aka 9purp0s3",
+            "For this project, my main goal was to create 1000 users on Active Directory, log in on the client machine, and access the Internet via a private network. I successfully downloaded, installed, and configured two virtual machines and created the users using an automated PowerShell script. I then I successfully logged on as a user and was able to access the internet. Here are the steps I took to complete my project.",
           imageUrl: '',
           link: '',
         },
