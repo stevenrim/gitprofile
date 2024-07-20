@@ -60,8 +60,7 @@ const CONFIG = {
           imageUrl: 'https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c5a52bf-7df5-4ea3-98ef-6d51f8d80c6d.png',
           link: '',
         },
-      ],
-
+        },
        external: {
       header: 'Steven | 9purp0s3',
       // To hide the `External Projects` section, keep it empty.
