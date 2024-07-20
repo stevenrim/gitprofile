@@ -43,7 +43,7 @@ const CONFIG = {
           title: 'Active Directory Home Lab w/VirtualBox',
           description:
             "For this project, my main goal was to create 1000 users on Active Directory, log in on the client machine, and access the Internet via a private network. I successfully downloaded, installed, and configured two virtual machines and created the users using an automated PowerShell script. I then I successfully logged on as a user and was able to access the internet. Here are the steps I took to complete my project.",
-          imageUrl: 'https://i.imgur.com/VoM3rrX.jpeg',
+          imageUrl: 'https://i.imgur.com/VoM3rrX.jpeg', 'https://i.imgur.com/VoM3rrX.jpeg',
           link: 'https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f',
         },
         {
