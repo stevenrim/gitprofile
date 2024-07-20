@@ -61,8 +61,43 @@ const CONFIG = {
           link: '',
         },
       ],
+
+       external: {
+      header: 'Steven | 9purp0s3',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Greetings, cyber adventurers!',
+          description:
+            "Thank you for taking the time to visit my portfolio as I chronicle my journey into InfoSec. Here, you'll find my ethical hands-on projects from school, online courses, and YouTube tutorials made by amazing people in this industry. This journey isn't just about me—it's also about inspiring you. Whether you're an enthusiast, a budding cyberwarrior, or a future employer, know that every keystroke, every byte, and every analysis tells a story. Mine is just beginning and I hope what I share here adds a spark to your own adventure. -Steven aka 9purp0s3",
+          imageUrl: '',
+          link: '',
+        },
+        {
+          title: 'Active Directory Home Lab w/VirtualBox',
+          description:
+            "For this project, my main goal was to create 1000 users on Active Directory, log in on the client machine, and access the Internet via a private network. I successfully downloaded, installed, and configured two virtual machines and created the users using an automated PowerShell script. I then I successfully logged on as a user and was able to access the internet. Here are the steps I took to complete my project.",
+          imageUrl: 'https://i.imgur.com/VoM3rrX.jpeg',
+          link: 'https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f',
+        },
+        {
+          title: 'Cloud Honeynet + SOC in Azure',
+          description:
+            "Constructed a honeynet on Azure to ingest logs from resources into a Log Analytics workspace. Used Kusto Query Language to query logs. Utilized Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Measured the insecure environment, applied security controls, measured the secure environment, and analyzed results.",
+          imageUrl: 'https://swimburger.net/media/0zcpmk1b/azure.jpg',
+          link: 'https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147',
+        },
+        {
+          title: 'Vulnerability Assessment w/Nessus',
+          description:
+            "Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.",
+          imageUrl: 'https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c5a52bf-7df5-4ea3-98ef-6d51f8d80c6d.png',
+          link: '',
+        },
+      ],
     },
   },
+  
   seo: {
     title: '',
     description: '',
