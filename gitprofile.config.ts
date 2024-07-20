@@ -62,7 +62,8 @@ const CONFIG = {
         },
       ],
     },
-    external: {
+  },
+  external: {
       header: 'test',
       // To hide the `External Projects` section, keep it empty.
       projects: [
@@ -96,7 +97,6 @@ const CONFIG = {
         },
       ],
     },
-  },
   
   seo: {
     title: '',
