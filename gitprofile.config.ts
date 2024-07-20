@@ -60,6 +60,13 @@ const CONFIG = {
           imageUrl: 'https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c5a52bf-7df5-4ea3-98ef-6d51f8d80c6d.png',
           link: '',
         },
+         {
+          title: 'Exploiting Web Application Vulnerabilities w/OWASP Juice Shop',
+          description:
+            "Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.",
+          imageUrl: 'https://miro.medium.com/v2/resize:fit:640/format:webp/1*YjMFylIBivoJA67Uo7HCPQ.png',
+          link: '',
+        },
       ],
     },
   },
