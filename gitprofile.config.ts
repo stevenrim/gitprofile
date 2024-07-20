@@ -65,7 +65,7 @@ const CONFIG = {
           description:
             "Used Docker to access OWASP Juice Shop 10.2 for ARM64/Raspberry Pi. Here, I exploit a series of OWASP Top 10 vulnerabilities with varying levels of difficulty. This particular post will continually be updated until I complete all challenges on this version. So check back often.",
           imageUrl: 'https://i.pinimg.com/474x/5a/83/34/5a83347d6e372a472b1a72b3223da55f.jpg',
-          link: '',
+          link: 'https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd',
         },
       ],
     },
