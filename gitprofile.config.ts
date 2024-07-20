@@ -63,8 +63,8 @@ const CONFIG = {
          {
           title: 'Exploiting Web Application Vulnerabilities w/OWASP Juice Shop',
           description:
-            "Installed and configured Nessus Essentials to perform credentialed vulnerability scans. Created a vulnerable Windows 10 VM on VirtualBox with outdated software and disabled Firewall. Performed unauthenticated and credentialed scans using Nessus against vulnerable Windows 10 VM with outdated software. Analyzed results, identified vulnerabilities, remediated vulnerabilities, and verified successful remediation through subsequent scans.",
-          imageUrl: 'https://miro.medium.com/v2/resize:fit:640/format:webp/1*YjMFylIBivoJA67Uo7HCPQ.png',
+            "Used Docker to access OWASP Juice Shop 10.2 for ARM64/Raspberry Pi. Here, I exploit a series of OWASP Top 10 vulnerabilities with varying levels of difficulty. This particular post will continually be updated until I complete all challenges on this version. So check back often.",
+          imageUrl: 'https://i.pinimg.com/474x/5a/83/34/5a83347d6e372a472b1a72b3223da55f.jpg',
           link: '',
         },
       ],
