@@ -109,7 +109,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '9purp0s3',
+    instagram: '',
     reddit: '',
     threads: '',
     youtube: '', 
