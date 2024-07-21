@@ -67,6 +67,13 @@ const CONFIG = {
           imageUrl: 'https://i.pinimg.com/474x/5a/83/34/5a83347d6e372a472b1a72b3223da55f.jpg',
           link: 'https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd',
         },
+        {
+          title: 'SOC Pathway and CDSA Certification w/HackTheBox',
+          description:
+            "I’m starting this post to share some of the labs I’ll complete throughout my HTB CDSA and SOC Analyst pathway journey. The HTB CDSA certification evaluates hands-on skills in security analysis, SOC operations, and incident handling. Upon completion, I’ll be better equipped to detect security incidents, identify detection methods, and create actionable incident reports. (This is not a step-by-step tutorial or guide.)",
+          imageUrl: 'https://i.imgur.com/Lvsz2D3.jpeg',
+          link: 'https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7',
+        },
       ],
     },
   },
